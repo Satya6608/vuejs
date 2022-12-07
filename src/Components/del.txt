@@ -1,0 +1,283 @@
+async()=>{
+    let response = ""
+    try{
+           response =await fetch('https://jsonplaceholder.typicode.com/posts')
+          let result = await response.json()
+            console.log(result)
+      }
+      catch{
+       alert("Something went wrong") 
+    }
+  }
+
+
+
+
+
+
+
+
+   <div class="col-md-3 col-sm-6 col-xs-6 col-6">
+          <div class="slide-box">
+            <div class="product-box">
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class="view-detail"
+              >
+                View Detail
+              </a>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                ><div class="w-100">
+                  <img
+                    src="https://wforwoman.gumlet.io/product/18AUS11397-110653/300/18AUS11397_110653_1.JPG"
+                    alt="Golden Round Neck Embellished Dress"
+                    title="Golden Round Neck Embellished Dress"
+                    class=""
+                  /></div
+              ></a>
+            </div>
+            <p>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                >Golden Round Neck Embellished Dress</a
+              >
+            </p>
+            <div class="price">
+              <p>
+                <span class="old-price">Rs. 8999</span>
+                <span class="price">Rs. 2699</span>
+                <span class="discount_percent font-bold"> - 70% </span>
+              </p>
+            </div>
+            <div class="price" style="display: none">
+              <p>
+                <span class="price">Rs. 2699</span>
+              </p>
+            </div>
+            <div class="size">
+              <p>
+                Size -
+                <span>6</span><span>8</span><span>10</span><span>12</span
+                ><span>14</span><span>16</span><span>18</span>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6 col-6">
+          <div class="slide-box">
+            <div class="product-box">
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class="view-detail"
+              >
+                View Detail
+              </a>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                ><div class="w-100">
+                  <img
+                    src="https://wforwoman.gumlet.io/product/18AUS11397-110653/300/18AUS11397_110653_1.JPG"
+                    alt="Golden Round Neck Embellished Dress"
+                    title="Golden Round Neck Embellished Dress"
+                    class=""
+                  /></div
+              ></a>
+            </div>
+            <p>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                >Golden Round Neck Embellished Dress</a
+              >
+            </p>
+            <div class="price">
+              <p>
+                <span class="old-price">Rs. 8999</span>
+                <span class="price">Rs. 2699</span>
+                <span class="discount_percent font-bold"> - 70% </span>
+              </p>
+            </div>
+            <div class="price" style="display: none">
+              <p>
+                <span class="price">Rs. 2699</span>
+              </p>
+            </div>
+            <div class="size">
+              <p>
+                Size -
+                <span>6</span><span>8</span><span>10</span><span>12</span
+                ><span>14</span><span>16</span><span>18</span>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6 col-6">
+          <div class="slide-box">
+            <div class="product-box">
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class="view-detail"
+              >
+                View Detail
+              </a>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                ><div class="w-100">
+                  <img
+                    src="https://wforwoman.gumlet.io/product/18AUS11397-110653/300/18AUS11397_110653_1.JPG"
+                    alt="Golden Round Neck Embellished Dress"
+                    title="Golden Round Neck Embellished Dress"
+                    class=""
+                  /></div
+              ></a>
+            </div>
+            <p>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                >Golden Round Neck Embellished Dress</a
+              >
+            </p>
+            <div class="price">
+              <p>
+                <span class="old-price">Rs. 8999</span>
+                <span class="price">Rs. 2699</span>
+                <span class="discount_percent font-bold"> - 70% </span>
+              </p>
+            </div>
+            <div class="price" style="display: none">
+              <p>
+                <span class="price">Rs. 2699</span>
+              </p>
+            </div>
+            <div class="size">
+              <p>
+                Size -
+                <span>6</span><span>8</span><span>10</span><span>12</span
+                ><span>14</span><span>16</span><span>18</span>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6 col-6">
+          <div class="slide-box">
+            <div class="product-box">
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class="view-detail"
+              >
+                View Detail
+              </a>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                ><div class="w-100">
+                  <img
+                    src="https://wforwoman.gumlet.io/product/18AUS11397-110653/300/18AUS11397_110653_1.JPG"
+                    alt="Golden Round Neck Embellished Dress"
+                    title="Golden Round Neck Embellished Dress"
+                    class=""
+                  /></div
+              ></a>
+            </div>
+            <p>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                >Golden Round Neck Embellished Dress</a
+              >
+            </p>
+            <div class="price">
+              <p>
+                <span class="old-price">Rs. 8999</span>
+                <span class="price">Rs. 2699</span>
+                <span class="discount_percent font-bold"> - 70% </span>
+              </p>
+            </div>
+            <div class="price" style="display: none">
+              <p>
+                <span class="price">Rs. 2699</span>
+              </p>
+            </div>
+            <div class="size">
+              <p>
+                Size -
+                <span>6</span><span>8</span><span>10</span><span>12</span
+                ><span>14</span><span>16</span><span>18</span>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6 col-6">
+          <div class="slide-box">
+            <div class="product-box">
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class="view-detail"
+              >
+                View Detail
+              </a>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                ><div class="w-100">
+                  <img
+                    src="https://wforwoman.gumlet.io/product/18AUS11397-110653/300/18AUS11397_110653_1.JPG"
+                    alt="Golden Round Neck Embellished Dress"
+                    title="Golden Round Neck Embellished Dress"
+                    class=""
+                  /></div
+              ></a>
+            </div>
+            <p>
+              <a
+                href="/product-golden-round-neck-embellished-dress-18aus11397-110653.html"
+                class=""
+                >Golden Round Neck Embellished Dress</a
+              >
+            </p>
+            <div class="price">
+              <p>
+                <span class="old-price">Rs. 8999</span>
+                <span class="price">Rs. 2699</span>
+                <span class="discount_percent font-bold"> - 70% </span>
+              </p>
+            </div>
+            <div class="price" style="display: none">
+              <p>
+                <span class="price">Rs. 2699</span>
+              </p>
+            </div>
+            <div class="size">
+              <p>
+                Size -
+                <span>6</span><span>8</span><span>10</span><span>12</span
+                ><span>14</span><span>16</span><span>18</span>
+              </p>
+            </div>
+          </div>
+        </div>
+
+
+
+
+            return {
+      list:[],
+      page :1,
+    }
+  },
+  methods:{
+    getData(){
+      fetch(`https://pim.wforwoman.com/pim/pimresponse.php/?service=category&store=1&url_key=top-wear-kurtas&page=1&count=20&sort_by=&sort_dir=desc&filter=`)
+      .then (res => res.json())
+      .then(data => this.list=data.result.products)
+    },
+},
+mounted(){
+  this.getData()
+},
